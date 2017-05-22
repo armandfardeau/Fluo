@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fluo</string>
+    <string name="placeholder_login_username">Username?</string>
+</resources>
