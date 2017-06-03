@@ -40,7 +40,7 @@ public class LoginActivity extends AppCompatActivity {
 
                 boolean isCredentialNotEmpty = !login.isEmpty() && !password.isEmpty();
 
-                if(isCredentialNotEmpty) {
+                if (isCredentialNotEmpty) {
 
                     AlertDialog.Builder builder = new AlertDialog.Builder(LoginActivity.this);
                     builder.setMessage("Le login et le mot de passe ne sont pas vides.");
